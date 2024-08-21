@@ -12,7 +12,7 @@ from diffusers import (
 )
 
 VAE_LINK = "https://huggingface.co/stabilityai/sd-vae-ft-mse-original/blob/main/vae-ft-mse-840000-ema-pruned.safetensors"
-MODEL_LINK = "https://civitai.com/api/download/models/286354?type=Model&format=SafeTensor&size=full&fp=fp16"
+MODEL_LINK = "https://civitai.com/api/download/models/737630?type=Model&format=SafeTensor"
 VAE_CACHE = "vae-cache"
 MODEL_CACHE = "model-cache"
 
